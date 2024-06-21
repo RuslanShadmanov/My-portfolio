@@ -5,11 +5,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/RuslanShadmanov",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1okZ-_hnyjumR1IUF1716GB-SYGLCCWHx/view",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  // twitter: "",
+  // instagram: "",
+  // facebook: "",
 };
 
 export const skills = [
@@ -127,7 +127,7 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-png-transparent.png",
       },
       {
         name: "Figma",
@@ -147,9 +147,8 @@ export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWKasX4XV38flZiOY325m6CjqHe463rzfEb_tAhlsdJbin04D6",
-    role: "Frontend Engineer",
-    company:
-      "Enter.kg – retail store for components, computers, office equipment, as well as various electronics",
+    role: "Front-End developer",
+    company: "Cargo Fleet",
     date: "March 2022 - Dec 2023",
     desc: "Employed React and the Redux Toolkit to develop over 50 responsive management tools, ensuring the functionality of the product and its alignment with design specifications and contributing to heightened customer satisfaction. Conducted code refactoring by migrating class components to functional components, utilizing React Hooks best practices to elevate code maintainability,optimize performance, and align with industry standards.Optimized application performance by integrating React Router lazy loading feature, resulting in a notable 15% decrease in average page load duration.Collaborated with the Back-End team to integrate client-side pagination in REST API development using Postman. This initiative reduced response times, enhancing API call efficiency and resulting in a 30% increase in positive user feedback.Engaged in collaborative teamwork alongside a group of seven developers, utilizing Agile methodologies in Jira. Conducted daily stand-up meetings to synchronize efforts and ensure project alignment. Provided weekly demos and progress reports to stakeholders, offering transparent updates on project advancements",
     skills: [
@@ -165,7 +164,7 @@ export const experiences = [
       "React Hooks",
       "REST APIs",
     ],
-    doc: "https://enter.kg/",
+    doc: "https://cargofleet.org/",
   },
   {
     id: 1,
@@ -183,7 +182,7 @@ export const experiences = [
       "JavaScript",
       "Node Js",
     ],
-    doc: "",
+    doc: "https://enter.kg/",
   },
 ];
 
@@ -194,8 +193,9 @@ export const education = [
     school: "Seytech school",
     date: "Oct 2021 - Sep 2025",
 
-    desc: "Successfully Completed Course on Front End Developer",
+    desc: "Successfully Completed Course on Front End Developer ",
     degree: "Front End Developer",
+    doc: "https://drive.google.com/file/d/1gmeXJjQdXHIit8dMcm-V6lyuO-zCl0Wo/view?usp=drive_link",
   },
   {
     id: 1,
@@ -205,29 +205,23 @@ export const education = [
 
     desc: "I graduated my university, and received Master's degree",
     degree: "Computer Engineer",
+    doc: "https://drive.google.com/file/d/19YPoFNMq67u_jVCcqbRhvtycthc9aLvi/view?usp=drive_link",
   },
 ];
 
 export const projects = [
   {
     id: 11,
-    title: "DecisionHub",
+    title: "CryptoApp",
     date: "Jan 2024 - Dec 2023",
     description:
       "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
+    tags: ["React Js", "Vite JS", "Babel", "SWC"],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/RuslanShadmanov/Crypto-app",
+    webapp: "https://cryptoexample.netlify.app",
   },
   {
     id: 9,

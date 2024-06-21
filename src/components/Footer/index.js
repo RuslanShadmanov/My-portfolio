@@ -109,7 +109,9 @@ function Footer() {
             <InstagramIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2023 Rishav Chanda. All rights reserved.</Copyright>
+        <Copyright>
+          &copy; 2023 Ruslan Shadmanov. All rights reserved.
+        </Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
