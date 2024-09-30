@@ -110,7 +110,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Ruslan Shadmanov. All rights reserved.
+          &copy; 2024 Ruslan Shadmanov. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
